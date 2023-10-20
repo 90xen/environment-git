@@ -1,0 +1,23 @@
+{
+  "name": "environment-git",
+  "version": "1.0.0",
+  "description": "hehe idk",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/90xen/environment-git.git"
+  },
+  "author": "90xen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/90xen/environment-git/issues"
+  },
+  "homepage": "https://github.com/90xen/environment-git#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
